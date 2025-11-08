@@ -1,88 +1,109 @@
 <div align="center">
 
-# 🎮 Game Technical Artist
+```
+  ██████╗  █████╗ ███╗   ███╗███████╗    ██████╗ ███████╗██╗   ██╗
+ ██╔════╝ ██╔══██╗████╗ ████║██╔════╝    ██╔══██╗██╔════╝██║   ██║
+ ██║  ███╗███████║██╔████╔██║█████╗      ██║  ██║█████╗  ██║   ██║
+ ██║   ██║██╔══██║██║╚██╔╝██║██╔══╝      ██║  ██║██╔══╝  ╚██╗ ██╔╝
+ ╚██████╔╝██║  ██║██║ ╚═╝ ██║███████╗    ██████╔╝███████╗ ╚████╔╝ 
+  ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝    ╚═════╝ ╚══════╝  ╚═══╝  
+```
 
-### *Bridging Art and Technology in Game Development*
+### 🎮 Game Developer | 游戏程序员
 
-[![Unity](https://img.shields.io/badge/Unity-Specialist-black?style=flat-square&logo=unity)]()
-[![Unreal](https://img.shields.io/badge/Unreal-Engine-blue?style=flat-square&logo=unreal-engine)]()
-[![Shader](https://img.shields.io/badge/Shader-Expert-orange?style=flat-square)]()
+[![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)](https://unity.com)
+[![Unreal](https://img.shields.io/badge/Unreal-Engine-313131?style=flat-square&logo=unreal-engine&logoColor=white)](https://unrealengine.com)
+[![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👾 About Me
 
 ```javascript
-const techArtist = {
-  role: "Game Technical Artist",
-  location: "Creating magic in game engines",
-  
-  expertise: [
-    "🎨 Shader Programming & Visual Effects",
-    "⚡ Rendering Pipeline Optimization",
-    "🔧 Art Tools & Workflow Automation",
-    "🌟 Real-time Graphics Development"
-  ],
-  
-  currentFocus: [
-    "Advanced Rendering Techniques",
-    "Procedural Content Generation",
-    "Performance Optimization"
-  ]
-}
+const gameDeveloper = {
+    role: "Game Programmer",
+    passion: "Building interactive experiences",
+    
+    skills: {
+        gameplay: ["Game Logic", "AI Systems", "Physics"],
+        graphics: ["Rendering", "Shaders", "Optimization"],
+        tools: ["Editor Extensions", "Pipeline Tools", "Automation"]
+    },
+    
+    currentlyWorking: [
+        "Real-time Multiplayer Systems",
+        "Procedural Generation",
+        "Performance Optimization"
+    ]
+};
 ```
 
-
-
 ---
 
-
-
----
-
-## 🛠️ Technical Skills
-
-<div align="center">
-
-### Core Competencies
-
-![Shader Programming](https://img.shields.io/badge/Shader-Programming-FF6B6B?style=for-the-badge)
-![Rendering](https://img.shields.io/badge/Rendering-Optimization-4ECDC4?style=for-the-badge)
-![Material](https://img.shields.io/badge/Material-Creation-95E1D3?style=for-the-badge)
-![VFX](https://img.shields.io/badge/VFX-System-F38181?style=for-the-badge)
-
-</div>
+## 🛠️ Tech Stack
 
 ### Game Engines
-
-| Engine | Proficiency | Key Skills |
-|--------|-------------|------------|
-| **Unity** | ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛ | C# Scripting · URP/HDRP · ShaderGraph · Custom Pipeline |
-| **Unreal Engine** | ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜ | Blueprint · Material Editor · Niagara VFX · C++ |
-
-### Tech Stack
-
-```yaml
-Languages:     C#, C++, HLSL/GLSL, Python
-Engines:       Unity, Unreal Engine
-Graphics:      ShaderLab, ShaderGraph, Material Editor
-Web3D:         Three.js, WebGL
-Tools:         Git, Perforce, Maya, Houdini
 ```
+Unity          ████████████  100%  → C#, ECS, Custom Tools
+Unreal Engine  ████████░░░░   70%  → Blueprint, C++, Gameplay
+```
+
+### Programming Languages
+![C#](https://img.shields.io/badge/C%23-Expert-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Advanced-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Tools-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Web-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Specializations
+| Area | Technologies |
+|------|-------------|
+| **Gameplay Programming** | State Machines, Behavior Trees, Event Systems |
+| **Graphics Programming** | HLSL/GLSL, ShaderLab, Render Pipelines |
+| **Network** | Multiplayer, Client-Server, P2P |
+| **Tools Development** | Unity Editor, Custom Inspectors, Build Automation |
+
+---
+
+## 📦 Core Competencies
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  [████████░░] Gameplay Programming                          │
+│  [███████░░░] Graphics & Rendering                          │
+│  [████████░░] Performance Optimization                      │
+│  [██████░░░░] AI & Pathfinding                              │
+│  [███████░░░] Tools & Pipeline Development                  │
+│  [█████░░░░░] Network Programming                           │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🎯 What I Do
+
+- 🎮 Design and implement game mechanics and systems
+- ⚡ Optimize game performance for various platforms
+- 🔧 Build tools and workflows for development teams
+- 🎨 Work with shaders and rendering pipelines
+- 🌐 Develop multiplayer and network features
+- 📚 Write clean, maintainable, and scalable code
 
 ---
 
 <div align="center">
 
-### 💬 Let's Connect!
+```
+┌────────────────────────────────────────────────┐
+│                                                │
+│      Thanks for stopping by!                  │
+│      Let's create amazing games together! 🚀   │
+│                                                │
+└────────────────────────────────────────────────┘
+```
 
-*Always open to discussing game development, rendering techniques, and creative projects*
-
-⭐ Feel free to explore my repositories
+**Open to collaboration and new opportunities**
 
 </div>
-
-
-
