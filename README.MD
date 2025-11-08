@@ -1,45 +1,33 @@
-\#                                  游戏世界中的创造者
+<div align="center">
 
+# 🎮 Game Technical Artist
 
+### *Bridging Art and Technology in Game Development*
 
-```
+[![Unity](https://img.shields.io/badge/Unity-Specialist-black?style=flat-square&logo=unity)]()
+[![Unreal](https://img.shields.io/badge/Unreal-Engine-blue?style=flat-square&logo=unreal-engine)]()
+[![Shader](https://img.shields.io/badge/Shader-Expert-orange?style=flat-square)]()
 
-&nbsp;  ██████╗ ███████╗██╗   ██╗    ████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗
-
-&nbsp; ██╔════╝██╔════╝╝██╗ ██╔╝    ╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║
-
-&nbsp; ██║     █████╗   ╚████╔╝        ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║
-
-&nbsp; ██║     ██╔══╝    ╚██╔╝         ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║
-
-&nbsp; ╚██████╗███████╗   ██║          ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗
-
-&nbsp;  ╚═════╝╚══════╝   ╚═╝          ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
-
-```
-
-
+</div>
 
 ---
 
-
-
-## About Me
+## 👨‍💻 About Me
 
 ```javascript
 const techArtist = {
   role: "Game Technical Artist",
-  passion: "Bridging art and technology in game development",
+  location: "Creating magic in game engines",
   
   expertise: [
-    "Shader Programming & Visual Effects",
-    "Rendering Pipeline Optimization",
-    "Art Tools & Workflow Automation",
-    "Real-time Graphics Development"
+    "🎨 Shader Programming & Visual Effects",
+    "⚡ Rendering Pipeline Optimization",
+    "🔧 Art Tools & Workflow Automation",
+    "🌟 Real-time Graphics Development"
   ],
   
   currentFocus: [
-    "Real-time Rendering Systems",
+    "Advanced Rendering Techniques",
     "Procedural Content Generation",
     "Performance Optimization"
   ]
@@ -52,82 +40,47 @@ const techArtist = {
 
 
 
-\## Skill Tree
+---
 
-
+## 🛠️ Technical Skills
 
 <div align="center">
 
+### Core Competencies
 
-
-\### Game TA Skills
-
-
-
-\[!\[Shader编程](https://img.shields.io/badge/Shader-Programming-FF6B6B?style=for-the-badge\&logo=shader\&logoColor=white)](#)
-
-\[!\[渲染优化](https://img.shields.io/badge/Rendering-Optimization-4ECDC4?style=for-the-badge\&logo=gpu-server\&logoColor=white)](#)
-
-\[!\[材质制作](https://img.shields.io/badge/Material-Creation-95E1D3?style=for-the-badge\&logo=material-design\&logoColor=white)](#)
-
-\[!\[粒子系统](https://img.shields.io/badge/Particle-System-F38181?style=for-the-badge\&logo=adobe-after-effects\&logoColor=white)](#)
-
-
-
-### Tech Stack
-
-[![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](#)
-[![Unreal](https://img.shields.io/badge/Unreal-Engine-0FFFF0?style=for-the-badge&logo=unreal-engine&logoColor=white)](#)
-[![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)](#)
-[![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)](#)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-
-
-
-### Game Engines
-
-| Engine  | Proficiency | Expertise |
-|---------|-------------|-----------|
-| Unity   | ████████████ 100% | C# Scripting, URP/HDRP, ShaderGraph, Custom Render Pipeline |
-| Unreal  | ██████████░░ 85%  | Blueprint, Material Editor, Niagara VFX, C++ Gameplay |
-
-
+![Shader Programming](https://img.shields.io/badge/Shader-Programming-FF6B6B?style=for-the-badge)
+![Rendering](https://img.shields.io/badge/Rendering-Optimization-4ECDC4?style=for-the-badge)
+![Material](https://img.shields.io/badge/Material-Creation-95E1D3?style=for-the-badge)
+![VFX](https://img.shields.io/badge/VFX-System-F38181?style=for-the-badge)
 
 </div>
 
+### Game Engines
 
+| Engine | Proficiency | Key Skills |
+|--------|-------------|------------|
+| **Unity** | ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛ | C# Scripting · URP/HDRP · ShaderGraph · Custom Pipeline |
+| **Unreal Engine** | ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜ | Blueprint · Material Editor · Niagara VFX · C++ |
+
+### Tech Stack
+
+```yaml
+Languages:     C#, C++, HLSL/GLSL, Python
+Engines:       Unity, Unreal Engine
+Graphics:      ShaderLab, ShaderGraph, Material Editor
+Web3D:         Three.js, WebGL
+Tools:         Git, Perforce, Maya, Houdini
+```
 
 ---
 
-
-
-
-
-
-
 <div align="center">
 
+### 💬 Let's Connect!
 
+*Always open to discussing game development, rendering techniques, and creative projects*
 
-```
-
-┌─────────────────────────────────────────────────────────────┐
-
-│                                                             │
-
-│                 Thank you for your attention!               │
-
-│              Looking forward to connect and collaborate     │
-
-│                                                             │
-
-└─────────────────────────────────────────────────────────────┘
-
-```
-
-
+⭐ Feel free to explore my repositories
 
 </div>
 
