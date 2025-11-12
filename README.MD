@@ -25,19 +25,21 @@
 ```javascript
 const gameDeveloper = {
     role: "Game Programmer",
-    passion: "Building interactive experiences",
-    
+    passion: "Learning and building interactive experiences",
+
     skills: {
-        gameplay: ["Game Logic", "AI Systems", "Physics"],
-        graphics: ["Rendering", "Shaders", "Optimization"],
+        gameplay: ["Game Logic", "Basic AI Systems", "Physics"],
+        graphics: ["Rendering Basics", "Simple Shaders", "Optimization"],
         tools: ["Editor Extensions", "Pipeline Tools", "Automation"]
     },
-    
-    currentlyWorking: [
+
+    currentlyLearning: [
         "Real-time Multiplayer Systems",
         "Procedural Generation",
         "Performance Optimization"
-    ]
+    ],
+
+    mindset: "Always learning, always improving"
 };
 ```
 
@@ -47,23 +49,24 @@ const gameDeveloper = {
 
 ### Game Engines
 ```
-Unity          ████████████  100%  → C#, ECS, Custom Tools
-Unreal Engine  ████████░░░░   70%  → Blueprint, C++, Gameplay
+Unity          ████████░░░░   80%  → C#, ECS, Custom Tools
+Unreal Engine  ██████░░░░░░   60%  → Blueprint, C++, Gameplay
 ```
 
 ### Programming Languages
-![C#](https://img.shields.io/badge/C%23-Expert-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Advanced-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-Advanced-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Intermediate-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Tools-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Web-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Specializations
-| Area | Technologies |
-|------|-------------|
-| **Gameplay Programming** | State Machines, Behavior Trees, Event Systems |
-| **Graphics Programming** | HLSL/GLSL, ShaderLab, Render Pipelines |
-| **Network** | Multiplayer, Client-Server, P2P |
-| **Tools Development** | Unity Editor, Custom Inspectors, Build Automation |
+### Areas of Interest
+
+| Area                     | Technologies                                      |
+|--------------------------|---------------------------------------------------|
+| **Gameplay Programming** | State Machines, Behavior Trees, Event Systems     |
+| **Graphics Programming** | HLSL/GLSL, ShaderLab, Render Pipelines            |
+| **Network**              | Multiplayer, Client-Server, P2P                   |
+| **Tools Development**    | Unity Editor, Custom Inspectors, Build Automation |
 
 ---
 
@@ -71,12 +74,12 @@ Unreal Engine  ████████░░░░   70%  → Blueprint, C++, G
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  [████████░░] Gameplay Programming                          │
-│  [███████░░░] Graphics & Rendering                          │
-│  [████████░░] Performance Optimization                      │
-│  [██████░░░░] AI & Pathfinding                              │
-│  [███████░░░] Tools & Pipeline Development                  │
-│  [█████░░░░░] Network Programming                           │
+│  [██████░░░░] Gameplay Programming                          │
+│  [█████░░░░░] Graphics & Rendering                          │
+│  [██████░░░░] Performance Optimization                      │
+│  [███░░░░░░░] AI & Pathfinding                              │
+│  [██████░░░░] Tools & Pipeline Development                  │
+│  [███░░░░░░░] Network Programming                           │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -84,12 +87,12 @@ Unreal Engine  ████████░░░░   70%  → Blueprint, C++, G
 
 ## 🎯 What I Do
 
-- 🎮 Design and implement game mechanics and systems
-- ⚡ Optimize game performance for various platforms
-- 🔧 Build tools and workflows for development teams
-- 🎨 Work with shaders and rendering pipelines
-- 🌐 Develop multiplayer and network features
-- 📚 Write clean, maintainable, and scalable code
+- 🎮 Learning to design and implement game mechanics and systems
+- ⚡ Working on optimizing game performance for various platforms
+- 🔧 Building tools and workflows for development teams
+- 🎨 Exploring shaders and rendering pipelines
+- 🌐 Learning about multiplayer and network features
+- 📚 Focusing on writing clean, maintainable, and scalable code
 
 ---
 
