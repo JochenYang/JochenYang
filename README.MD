@@ -19,10 +19,10 @@ Game programmer passionate about creating interactive experiences and building A
 
 Focusing on:
 
-- 🎮 Game development with Cocos/Unity/Unreal/LayaAir
-- 🤖 AI-assisted programming and tools
-- 🔧 Workflow automation and optimization
-- 📚 Continuous learning
+  🎮 Game development with Cocos/Unity/Unreal/LayaAir
+  🤖 AI-assisted programming and tools
+  🔧 Workflow automation and optimization
+  📚 Continuous learning
 
 ---
 
