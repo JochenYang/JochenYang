@@ -15,8 +15,8 @@
 Game programmer passionate about creating interactive experiences and building AI-driven development workflows.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JochenYang&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JochenYang&layout=compact&theme=tokyonight&hide_border=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JochenYang&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JochenYang&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180px" />
 </div>
 
 ---
