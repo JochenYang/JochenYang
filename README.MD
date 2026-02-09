@@ -1,11 +1,12 @@
 <div align="center">
 
 <!-- Header Section -->
-<img src="https://capsule-render.vercel.app/render?type=waving&color=00599C&height=250&section=header&text=JOCHEN%20YANG&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
+
+![Jochen Yang Header](https://capsule-render.vercel.app/render?type=rect&color=00599C&height=120&section=header&text=JOCHEN%20YANG&fontSize=70&fontAlignY=50&animation=fadeIn)
 
 <!-- Bio Section -->
 <h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=🎮+Game+Programmer%3B🤖+AI+Driven+Developer%3B🔧+Workflow+Optimizer%3B📚+Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Game+Programmer;AI+Driven+Developer;Workflow+Optimizer;Continuous+Learner" alt="Typing SVG" />
 </h3>
 
 ---
@@ -15,8 +16,10 @@
 Game programmer passionate about creating interactive experiences and building AI-driven development workflows.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JochenYang&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JochenYang&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180px" />
+  
+[![Jochen's GitHub stats](https://github-readme-stats.vercel.app/api?username=JochenYang&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JochenYang&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 ---
@@ -26,23 +29,23 @@ Game programmer passionate about creating interactive experiences and building A
 ### 🕹 Engines & Frameworks
 
 <p>
-  <img src="https://img.shields.io/badge/Cocos-333333?style=for-the-badge&logo=cocos&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
-  <img src="https://img.shields.io/badge/LayaAir-FF6600?style=for-the-badge&logo=layaair&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cocos-333333?style=for-the-badge&logo=cocos&logoColor=white" alt="Cocos" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="UE" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot" />
+  <img src="https://img.shields.io/badge/LayaAir-FF6600?style=for-the-badge&logo=layaair&logoColor=white" alt="LayaAir" />
 </p>
 
 ### 💻 Languages & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
