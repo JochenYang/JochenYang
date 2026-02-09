@@ -1,12 +1,11 @@
 <div align="center">
 
 <!-- Header Section -->
-
-![Jochen Yang Header](https://capsule-render.vercel.app/render?type=rect&color=00599C&height=120&section=header&text=JOCHEN%20YANG&fontSize=70&fontAlignY=50&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/render?type=rect&color=00599C&height=120&section=header&text=JOCHEN%20YANG&fontSize=70&fontAlignY=50&animation=fadeIn" width="100%" />
 
 <!-- Bio Section -->
 <h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Game+Programmer;AI+Driven+Developer;Workflow+Optimizer;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Game+Programmer%3B+AI+Driven+Developer%3B+Workflow+Optimizer%3B+Continuous+Learner" alt="Typing SVG" />
 </h3>
 
 ---
@@ -16,9 +15,9 @@
 Game programmer passionate about creating interactive experiences and building AI-driven development workflows.
 
 <div align="center">
-  
-[![Jochen's GitHub stats](https://github-readme-stats.vercel.app/api?username=JochenYang&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JochenYang&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://github-readme-stats.vercel.app/api?username=JochenYang&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JochenYang&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180px" />
 
 </div>
 
