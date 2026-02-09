@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Header Section -->
-<img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=JOCHEN%20YANG&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/render?type=waving&color=00599C&height=250&section=header&text=JOCHEN%20YANG&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
 
 <!-- Bio Section -->
 <h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=🎮+Game+Programmer;🤖+AI+Driven+Developer;🔧+Workflow+Optimizer;📚+Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=🎮+Game+Programmer%3B🤖+AI+Driven+Developer%3B🔧+Workflow+Optimizer%3B📚+Continuous+Learner" alt="Typing SVG" />
 </h3>
 
 ---
@@ -49,10 +49,6 @@ Game programmer passionate about creating interactive experiences and building A
 
 ## 🐍 Contribution Snake
 
-<!--
-NOTE: The snake animation requires 'github-snake-action' to be configured in your GitHub Actions.
-It will 404 until the action runs and generates the SVG in the 'output' branch.
--->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JochenYang/JochenYang/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JochenYang/JochenYang/output/github-contribution-grid-snake.svg">
