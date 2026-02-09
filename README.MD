@@ -1,12 +1,8 @@
 <div align="center">
 
-<!-- Header Section -->
-<img src="https://capsule-render.vercel.app/render?type=rect&color=00599C&height=120&section=header&text=JOCHEN%20YANG&fontSize=70&fontAlignY=50&animation=fadeIn" width="100%" />
+# 🎮 JOCHEN YANG
 
-<!-- Bio Section -->
-<h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Game+Programmer%3B+AI+Driven+Developer%3B+Workflow+Optimizer%3B+Continuous+Learner" alt="Typing SVG" />
-</h3>
+### Game Programmer | AI-Driven Developer | Workflow Optimizer
 
 ---
 
@@ -28,23 +24,23 @@ Game programmer passionate about creating interactive experiences and building A
 ### 🕹 Engines & Frameworks
 
 <p>
-  <img src="https://img.shields.io/badge/Cocos-333333?style=for-the-badge&logo=cocos&logoColor=white" alt="Cocos" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="UE" />
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot" />
-  <img src="https://img.shields.io/badge/LayaAir-FF6600?style=for-the-badge&logo=layaair&logoColor=white" alt="LayaAir" />
+  <img src="https://img.shields.io/badge/Cocos-333333?style=flat-square&logo=cocos&logoColor=white" alt="Cocos" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unreal-engine&logoColor=white" alt="UE" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white" alt="Godot" />
+  <img src="https://img.shields.io/badge/LayaAir-FF6600?style=flat-square&logo=layaair&logoColor=white" alt="LayaAir" />
 </p>
 
 ### 💻 Languages & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
