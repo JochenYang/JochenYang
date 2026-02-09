@@ -19,9 +19,9 @@ Game programmer passionate about creating interactive experiences and building A
 
 <div align="center">
 
-<!-- Switching to a more stable theme/config to bypass potential rate limits on specific themes -->
-<img src="https://github-readme-stats.vercel.app/api?username=JochenYang&show_icons=true&theme=transparent&hide_border=true&title_color=F7DF1E&text_color=FFFFFF&icon_color=F7DF1E&bg_color=00000000" height="180px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JochenYang&layout=compact&theme=transparent&hide_border=true&title_color=F7DF1E&text_color=FFFFFF&bg_color=00000000" height="180px" />
+<!-- 使用更稳定的 alternative 镜像或备用参数 -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JochenYang&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180px" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JochenYang&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180px" />
 
 </div>
 
